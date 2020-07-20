@@ -2,13 +2,13 @@
 Performing Analysis on Kickstarter Data to uncover trends
 # Project title: Things to Consider for a Successful Kickstarter Campaign
 
-## Motivation: As a producer I'm always looking for quantitative and qualitative data to support the work that we do. Sometimes those who are uber passionate about their creative work may be blind sighted when it comes to the grunt work of analyzing the data and monetizing their work.
+## Motivation: As a producer I'm always looking for business inteligence to support the work that we do. Sometimes those who are uber passionate about their creative work may be blind sighted when it comes to monetizing their work.
 
 ### Purpose: This project is intended to provide guidance and trends to producers looking to launch a successful and competitive Kickstarter Campaign so they may fully realize their financial goals as they look for donors to complete their project. 
 
-## Analysis and Challenges: With all analysis there lies the challenge of grasping the whole story. This is no different. The data is based on the requesting client who is looking to launch a Kickstarter campaign to produce a play. Her requirements include analyzing theatre and plays in the U.S. and Great Britian. This data can certainly be built upon for other desired categories.
+## Analysis and Challenges: The challenge lies in understanding the whole story. What can be understood from the data sets that are not included and how we can go about to obtaining that data. The data is based on the request from a client who is looking to launch a Kickstarter campaign to produce a play. Her requirements include analyzing theatre and plays in the U.S. and Great Britian. This data can certainly be built upon for other desired categories.
 
-### Analysis of Outcomes Based on Launch Date: Based on the data the month of May had the highest number of successful campaigns. However, it is important to note that the numbers for other months didn't show a significant jump or decline. When compared to the failed campaigns the month of July had the largest number in comparison to the entire year.
+### Analysis of Outcomes Based on Launch Date: Based on the data the month of May had the highest number of successful campaigns. However, it is important to note that the numbers for other months didn't show a significant jump or decline. When compared to the failed campaigns the month of July had the highest number in comparison to the other months.
 ![image_name](path/to/image_name.png)
 
 ### Analysis of Outcomes Based on Goals: The Theatre campaigns were able to draw the second largest successful dollar amount after Film&Video. The top two categories were Theatre and Film&Video for successful outcomes based on goals.
