@@ -4,7 +4,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 
 ## Motivation: As a producer I'm always looking for business inteligence to support the work that we do. Sometimes those who are uber passionate about their creative work may be blind sighted when it comes to monetizing their work.
 
-### Purpose: This project is intended to illustrate some of the trends useful to producers intending to launch a successful and competitive Kickstarter Campaign so they may fully realize their financial goals as they look for donors to support their project. 
+### Purpose: This project is intended to illustrate some of the trends useful to producers intending to launch a successful and competitive Kickstarter Campaign. The findings may be useful as you plan out your financial goals and look for donors to support your project. 
 
 ## Analysis and Challenges: The challenge lies in understanding the whole story. What can be understood from the data sets that are not included and how we can go about to obtaining that data. The data is based on the request from a client who is looking to launch a Kickstarter campaign to produce a play. Her requirements include analyzing theatre and plays in the U.S. and Great Britian. This data can certainly be built upon for other desired categories.
 
