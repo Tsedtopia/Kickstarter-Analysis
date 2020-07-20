@@ -4,7 +4,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 
 ## Motivation: As a producer I'm always looking for quantitative and qualitative data to support the work that we do. Sometimes those who are uber passionate about their creative work may be blind sighted when it comes to the grunt work of analyzing the data and monetizing their work.
 
-### Purpose: This project is intended to provide guidance to producers looking to launch a successful Kickstarter Campaign and fully realize their financial goals as they look for donors to complete their project.
+### Purpose: This project is intended to provide guidance and trends to producers looking to launch a successful and competitive Kickstarter Campaign so they may fully realize their financial goals as they look for donors to complete their project. 
 
 ## Analysis and Challenges: With all analysis there lies the challenge of grasping the whole story. This is no different. The data is based on the requesting client who is looking to launch a Kickstarter campaign to produce a play. Her requirements include analyzing theatre and plays in the U.S. and Great Britian. This data can certainly be built upon for other desired categories.
 
@@ -12,7 +12,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 
 ### Analysis of Outcomes Based on Goals: The Theatre campaigns were able to draw the second largest successful dollar amount after Film&Video. The top two categories were Theatre and Film&Video for successful outcomes based on goals.
 
-### Challenges and Difficulties Encountered: The overall challenges when working with the data sheet is to ensure that you've removed filters when working with a new requirement. 
+### Challenges and Difficulties Encountered: The overall challenges when working with the data sheet is to ensure that you've removed filters otherwise you will be pulling the wrong data into the tables, and although you may be using the correct formulas, it can cause several errors.
 
 ## Results:
 
