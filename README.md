@@ -9,7 +9,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 ## Analysis and Challenges: With all analysis there lies the challenge of grasping the whole story. This is no different. The data is based on the requesting client who is looking to launch a Kickstarter campaign to produce a play. Her requirements include analyzing theatre and plays in the U.S. and Great Britian. This data can certainly be built upon for other desired categories.
 
 ### Analysis of Outcomes Based on Launch Date: Based on the data the month of May had the highest number of successful campaigns. However, it is important to note that the numbers for other months didn't show a significant jump or decline. When compared to the failed campaigns the month of July had the largest number in comparison to the entire year.
-
+![image_name](path/to/image_name.png)
 ### Analysis of Outcomes Based on Goals: The Theatre campaigns were able to draw the second largest successful dollar amount after Film&Video. The top two categories were Theatre and Film&Video for successful outcomes based on goals.
 
 ### Challenges and Difficulties Encountered: The overall challenges when working with the data sheet is to ensure that you've removed filters otherwise you will be pulling the wrong data into the tables, and although you may be using the correct formulas, it can cause several errors.
@@ -19,7 +19,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 - What are two conclusions you can draw about the Outcomes based on Launch Date? It would be good to analyze at least 5 - 10 years before drawing a conclusion. However, I'm going to side on the conclusion that people may be more inclined to support a Kickstarter campaign during the months of March to May according to this particular data. It would be interesting to see if these launch dates correlate to any national festivals taking place. The second conclusion is that failed campaigns peaked in January and October and perhaps that may have to do with Holiday spending.
 
 - What can you conclude about the Outcomes based on Goals? Further information needs to be reviewed. It would be great to review two years prior and two years after to determine if the 5 year period is consistent. The Theater category was able to yield a collective amount of $4.4 million. 
-
+![image_name](path/to/image_name.png)
 - What are some limitations of this dataset? It isn't clear what other marketing or branding is being done by those who are hosting a successful campaign. Often times people who launch a Kickstarter campaign have already known donors who will boost their campaign so that they reach their goals.
 
 - What are some other possible tables and/or graphs that we could create?
