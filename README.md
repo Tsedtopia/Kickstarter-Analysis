@@ -16,7 +16,7 @@ Performing Analysis on Kickstarter Data to uncover trends
 
 ## Results:
 
-Outcomes based on launch date may leave you with some general sense of direction, but it would be good to analyze at least 5 - 10 years before drawing a conclusion. However, I'm going to side on the conclusion that people may be more inclined to support a Kickstarter campaign during the months of March to May according to this particular data. It would be interesting to see if these launch dates correlate to any national festivals taking place. The second conclusion is that failed campaigns peaked in January and October and perhaps that may have to do with Holiday spending.
+Outcomes based on launch date may leave you with some general sense of direction, but it would be good to analyze at least 5 - 10 years before drawing a conclusion. However, I'm going to side on the conclusion that people may be more inclined to support a Kickstarter campaign during the months of March to May according to this particular data. It would be interesting to see if these launch dates correlate to any national festivals taking place. The second conclusion is that failed campaigns peaked in January and October and perhaps that may have to do with external factors like Holiday spending.
 
 Further information needs to be reviewed to determine the correlation between the outcomes and goals. It would be great to review two years prior and two years after to determine if the 5 year period is consistent. The Theater category was able to yield a collective amount of $4.4 million. 
 ![image_name](path/to/image_name.png)
